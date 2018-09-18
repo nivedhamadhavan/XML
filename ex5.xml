@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "my2.xsl"?>
+<class>
+<employee id = "007">
+<name>nive</name>
+<email>nivemadhav@gmail.com</email>
+<score>80</score>
+</employee>
+<employee id = "057">
+<name>ria</name>
+<email>richan@gmail.com</email>
+<score>80</score>
+</employee>
+<employee id = "003">
+<name>chashu</name>
+<email>chashu@yahoo.com</email>
+<score>96</score>
+</employee>
+</class>
